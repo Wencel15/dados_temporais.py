@@ -1,1 +1,1 @@
-# dados_temporais.py
+# Analisando dados de séries temporais
